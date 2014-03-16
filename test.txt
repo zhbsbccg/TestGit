@@ -1,2 +1,3 @@
 zhb1
 zhb2
+reset word
